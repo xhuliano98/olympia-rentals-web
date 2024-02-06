@@ -1,1 +1,1 @@
-# olympia-rentals-web
+# Car Rental static website
